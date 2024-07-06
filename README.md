@@ -1,2 +1,2 @@
 # Art-Book-Project
-Core data, notification bar, picker controller, notification center kullandım
+Core data, navigation bar, picker controller, notification center kullandım
